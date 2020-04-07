@@ -1,6 +1,6 @@
 # VedicMathsTutorial
 
-NOTE:This is not my project.
+NOTE: This is not my project.
 
 
 Vedic Maths Tutorial: Android App to provide Vedic Mathematics Tutorial to people.
