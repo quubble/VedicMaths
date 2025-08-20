@@ -1,4 +1,4 @@
-# VedicMathsTutorial
+# AndroidVedicMathsTutorial
 
 NOTE: This is not my project.
 
